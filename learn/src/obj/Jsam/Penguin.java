@@ -12,8 +12,8 @@ abstract class Animal {
     public void sleep() {}
 }
 interface A {
-    public void eat();
-    public void sleep();
+    public abstract void eat();
+    public abstract void sleep();
 }
 
 
